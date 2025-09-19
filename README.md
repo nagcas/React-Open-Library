@@ -82,15 +82,9 @@ npm run dev
 
 ---
 
-## 📸 Anteprima
-
-*(Inserisci uno screenshot o una gif qui)*
-
----
-
 ## 👨‍💻 Autore
 
-- [Gianluca Chiaravalloti](https://github.com/tuo-username)
+- [Gianluca Chiaravalloti](https://github.com/nagcas)
 
 ---
 
